@@ -1,2 +1,6 @@
 buenos dias toulouse
+<<<<<<< HEAD
 adios chicos
+=======
+aurevoir madrid
+>>>>>>> 269bd181dd7df8c97609e52ca5bb27a7585bdf7d
